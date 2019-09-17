@@ -1,0 +1,26 @@
+ Name: unc1.bin
+ Size: 120B
+ Type file: unicode
+ Count char: 121
+ Count words: 2
+
+    Symbol	      Count	      Ratio
+-------------------------------------
+         0	         41	         33%
+         u	         20	         16%
+         \	         20	         16%
+         6	         14	         11%
+         2	          6	          4%
+         7	          6	          4%
+         4	          3	          2%
+         a	          2	          1%
+         e	          2	          1%
+         3	          2	          1%
+          	          1	          0%
+         b	          1	          0%
+         c	          1	          0%
+         8	          1	          0%
+         9	          1	          0%
+
+ 
+Time File Processing: 8 msec

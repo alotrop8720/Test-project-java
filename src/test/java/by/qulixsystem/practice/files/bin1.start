@@ -1,0 +1,24 @@
+ Name: bin1.txt
+ Size: 62B
+ Type file: binary
+ Count char: 63
+ Count words: 8
+
+    Symbol	      Count	      Ratio
+-------------------------------------
+         0	         30	         47%
+         1	         26	         41%
+          	          7	         11%
+
+      Word	      Count	      Ratio
+-------------------------------------
+          	          1	         12%
+  01111000	          1	         12%
+  01100101	          1	         12%
+  01110000	          1	         12%
+  01101100	          1	         12%
+  01100001	          1	         12%
+  01101101	          1	         12%
+  01000101	          1	         12%
+
+Time File Processing: 124 msec
